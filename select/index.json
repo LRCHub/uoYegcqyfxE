@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "トリックハート",
+  "base_artist": "MIMI",
+  "createdAt": "2026-01-13T13:57:20.777120Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トリックハート (feat. 重音テト)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_トリックハート_(feat._重音テト)_MIMI.txt"
+    }
+  ]
+}
